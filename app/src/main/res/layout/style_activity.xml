@@ -9,9 +9,12 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.android.visualpolish.StyleActivity">
+    tools:context="prof.mo.ed.horizontallistview.StyleActivity">
 
     <!-- All mail folder views -->
+    <!-- TODO (3) Apply the "folderStyle" to all of these views and delete the redundant properties -->
+
+    <!-- TODO (5) Apply the "inboxStyle" to the inbox text view -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
